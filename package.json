@@ -6,10 +6,10 @@
   "scripts": {
     "start": "pm2 start . --attach --name hermit-md"
   },
-  "author": "A-d-i-t-h-y-a-n",
+  "author": "dayanisuru",
   "license": "ISC",
   "dependencies": {
-    "@adiwajshing/baileys": "git+https://github.com/A-d-i-t-h-y-a-n/Baileys.js.git",
+    "@adiwajshing/baileys": "git+https://github.com/dayanisuru/Baileys.js.git",
     "@adiwajshing/keyed-db": "^0.2.4",
     "acrcloud": "^1.4.0",
     "axios": "^0.24.0",
